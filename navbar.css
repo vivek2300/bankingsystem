@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap");
+
+.navbar {
+  background-color: lightblue;
+}
+
+.nav-link {
+  margin-right: 15px;
+  color: midnightblue;
+  letter-spacing: 0.5px;
+  transition: 0.5s;
+  text-decoration: midnightblue;
+}
+.navbar-brand {
+  color: rgb(3, 86, 97);
+  letter-spacing: 0.5px;
+}
+
+@media (max-width: 767px) {
+  .navbar-toggleable-sm {
+    clear: both;
+  }
+}
+
+h2 {
+  color: midnightblue;
+  letter-spacing: 0.5px;
+  font-family: "Akaya Telivigala", cursive;
+}

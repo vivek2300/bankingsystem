@@ -1,0 +1,17 @@
+button {
+  transition: 1.5s;
+}
+
+body {
+  background-color: DodgerBlue;
+}
+
+.table {
+  background: lightgoldenrodyellow;
+  text-decoration: LightGray;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}

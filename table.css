@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+h2 {
+  font-size: 40px;
+}
+table {
+  letter-spacing: 1.2px;
+  background: #dcfffd;
+}
+td {
+  text-align: center;
+}
+button {
+  border: none;
+  transition: 1s;
+}
+a .btn {
+  background: #3abdcc; /*background colour of button*/
+}
+.table-responsive-sm {
+  background: #c4e5e9;
+}
+
+@media only screen and (orientation: portrait) {
+  * {
+    letter-spacing: 1px;
+  }
+}
